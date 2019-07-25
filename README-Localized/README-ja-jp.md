@@ -1,3 +1,16 @@
+---
+page_type: sample
+products:
+- office-excel
+- office-365
+languages:
+- javascript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  createdDate: 4/18/2016 1:13:36 PM
+---
 # <a name="excel-add-in-with-aspnet-and-quickbooks"></a>ASP.NET と QuickBooks を使用する Excel アドイン
 
 Excel アドインで、QuickBooks のようなサービスに接続して、Excel スプレッドシートにデータをインポートできます。この Excel アドインでは、QuickBooks に接続し、QuickBooks が提供するサンドボックス アカウント (**Sandbox Company_US_1**) からサンプルの支出データを取得し、サンプル データをスプレッドシートにインポートする方法を示します。アドインには、サンプル データからグラフを作成するためのボタンも用意されています。

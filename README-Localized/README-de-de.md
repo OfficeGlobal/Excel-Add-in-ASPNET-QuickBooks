@@ -1,3 +1,16 @@
+---
+page_type: sample
+products:
+- office-excel
+- office-365
+languages:
+- javascript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  createdDate: 4/18/2016 1:13:36 PM
+---
 # <a name="excel-add-in-with-aspnet-and-quickbooks"></a>Excel-Add-In mit ASP.NET und QuickBooks
 
 Excel-Add-Ins können eine Verbindung mit einem Dienst wie QuickBooks herstellen und Daten in eine Excel-Tabelle importieren. Dieses Excel-Add-In veranschaulicht das Herstellen einer Verbindung mit QuickBooks, ruft Beispielausgabedaten aus einem von QuickBooks bereitgestellten Sandkastenkonto **Sandbox Company_US_1**, und importiert die Beispieldaten in eine Tabelle. Das Add-In stellt auch eine Schaltfläche zum Erstellen eines Diagramms aus den Beispieldaten bereit.

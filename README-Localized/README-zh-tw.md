@@ -1,3 +1,16 @@
+---
+page_type: sample
+products:
+- office-excel
+- office-365
+languages:
+- javascript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  createdDate: 4/18/2016 1:13:36 PM
+---
 # <a name="excel-add-in-with-aspnet-and-quickbooks"></a>Excel 增益集與 ASP.NET 和 QuickBooks
 
 您的 Excel 增益集可以連接到像是 QuickBooks 的服務，並且將資料匯入至 Excel 試算表。這個 Excel 增益集將示範如何連接至 QuickBooks、從 QuickBooks 提供的沙箱帳戶取得範例費用資料，**Sandbox Company_US_1**，並且將範例資料匯入至試算表。增益集也提供按鈕以根據範例資料建立圖表。

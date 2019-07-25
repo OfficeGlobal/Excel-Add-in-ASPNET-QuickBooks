@@ -1,3 +1,16 @@
+---
+page_type: sample
+products:
+- office-excel
+- office-365
+languages:
+- javascript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  createdDate: 4/18/2016 1:13:36 PM
+---
 # <a name="excel-add-in-with-aspnet-and-quickbooks"></a>Suplemento do Excel com o ASP.NET e QuickBooks
 
 O Suplemento do Excel pode se conectar a um serviço, como o QuickBooks, e importar dados para sua planilha do Excel. Esse Suplemento do Excel demonstra como se conectar ao QuickBooks, obtém dados de exemplos de despesas de uma conta de área restrita fornecidos pelo QuickBooks, **Área Restrita Company_US_1**, e importa os dados de exemplo para uma planilha. O suplemento também fornece um botão para criar um gráfico usando os dados de exemplo.

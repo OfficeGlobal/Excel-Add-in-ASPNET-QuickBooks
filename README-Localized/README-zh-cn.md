@@ -1,3 +1,16 @@
+---
+page_type: sample
+products:
+- office-excel
+- office-365
+languages:
+- javascript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  createdDate: 4/18/2016 1:13:36 PM
+---
 # <a name="excel-add-in-with-aspnet-and-quickbooks"></a>集成了 ASP.NET 和 QuickBooks 的 Excel 外接程序
 
 你的 Excel 外接程序可以连接到诸如 QuickBooks 的服务，并将数据导入到你的 Excel 电子表格。此 Excel 外接程序演示如何连接到 QuickBooks、从由 QuickBooks 提供的沙盒帐户“**沙盒 Company_US_1**”获取示例支出数据，以及将示例数据导入到电子表格。外接程序还提供了从示例数据创建图表的按钮。

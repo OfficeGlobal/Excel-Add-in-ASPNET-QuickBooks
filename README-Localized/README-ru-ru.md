@@ -1,3 +1,16 @@
+---
+page_type: sample
+products:
+- office-excel
+- office-365
+languages:
+- javascript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  createdDate: 4/18/2016 1:13:36 PM
+---
 # <a name="excel-add-in-with-aspnet-and-quickbooks"></a>Надстройка Excel на базе ASP.NET для QuickBooks
 
 Надстройка Excel может подключаться к таким службам, как QuickBooks, и импортировать данные на лист Excel. Надстройка Excel, предложенная на этой странице, подключается к QuickBooks, получает образец данных о расходах из тестовой учетной записи **Sandbox Company_US_1**, предоставленной QuickBooks, и импортирует эти данные на лист. Кроме того, в этой надстройке предусмотрена кнопка создания диаграммы из образца данных.

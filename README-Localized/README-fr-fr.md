@@ -1,3 +1,16 @@
+---
+page_type: sample
+products:
+- office-excel
+- office-365
+languages:
+- javascript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  createdDate: 4/18/2016 1:13:36 PM
+---
 # <a name="excel-add-in-with-aspnet-and-quickbooks"></a>Complément Excel avec ASP.NET et QuickBooks
 
 Votre complément Excel peut se connecter à un service tel que QuickBooks et importer des données dans votre feuille de calcul Excel. Ce complément Excel indique comment se connecter à QuickBooks, obtient des exemples de données de dépenses auprès d’un compte sandbox fourni par QuickBooks, **Sandbox Company_US_1**, et importe les exemples de données dans une feuille de calcul. Le complément fournit également un bouton permettant de créer un graphique à partir des exemples de données.
